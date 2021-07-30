@@ -1,11 +1,12 @@
 
 import './App.css';
+import Header from './Header'
 
 function App() {
   return (
-    <div className="apnpmp">
-      <h1>Let's build the react project</h1>
-      {/* Header */}
+    <div className="app">
+    
+     <Header/>
       {/* App Body */}
         {/*Sidebar*/ }
         {/*Feed*/ }
